@@ -92,7 +92,7 @@
 
   .update {
     font-size: small;
-    width: 65px;
+    width: auto;
   }
   .delete {
     margin: auto 30px auto auto;
